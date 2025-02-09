@@ -1,0 +1,486 @@
+Date,City
+2024-10-22,Boston
+2024-10-22,Los Angeles
+2024-10-23,Detroit
+2024-10-23,Atlanta
+2024-10-23,Miami
+2024-10-23,Philadelphia
+2024-10-23,Toronto
+2024-10-23,Houston
+2024-10-23,New Orleans
+2024-10-23,Salt Lake City
+2024-10-23,Inglewood
+2024-10-23,Portland
+2024-10-24,Washington
+2024-10-24,Dallas
+2024-10-24,Sacramento
+2024-10-24,Denver
+2024-10-25,Orlando
+2024-10-25,Toronto
+2024-10-25,Atlanta
+2024-10-25,Cleveland
+2024-10-25,New York
+2024-10-25,Houston
+2024-10-25,Milwaukee
+2024-10-25,Salt Lake City
+2024-10-25,Los Angeles
+2024-10-25,Portland
+2024-10-26,Denver
+2024-10-26,Washington
+2024-10-26,Detroit
+2024-10-26,Charlotte
+2024-10-26,Memphis
+2024-10-26,Minneapolis
+2024-10-26,Chicago
+2024-10-26,San Antonio
+2024-10-26,Phoenix
+2024-10-26,Los Angeles
+2024-10-27,Indianapolis
+2024-10-27,Portland
+2024-10-27,Brooklyn
+2024-10-27,Oklahoma City
+2024-10-27,San Francisco
+2024-10-28,Orlando
+2024-10-28,Atlanta
+2024-10-28,Boston
+2024-10-28,Toronto
+2024-10-28,Miami
+2024-10-28,New York
+2024-10-28,San Antonio
+2024-10-28,Memphis
+2024-10-28,Dallas
+2024-10-28,Sacramento
+2024-10-28,Phoenix
+2024-10-29,Brooklyn
+2024-10-29,Minneapolis
+2024-10-29,Salt Lake City
+2024-10-29,San Francisco
+2024-10-30,Philadelphia
+2024-10-30,Washington
+2024-10-30,Indianapolis
+2024-10-30,Cleveland
+2024-10-30,Charlotte
+2024-10-30,Miami
+2024-10-30,Chicago
+2024-10-30,Memphis
+2024-10-30,Oklahoma City
+2024-10-30,San Francisco
+2024-10-30,Inglewood
+2024-10-31,Memphis
+2024-10-31,Dallas
+2024-10-31,Salt Lake City
+2024-10-31,Inglewood
+2024-11-01,Atlanta
+2024-11-01,Brooklyn
+2024-11-01,Charlotte
+2024-11-01,Cleveland
+2024-11-01,Detroit
+2024-11-01,Minneapolis
+2024-11-01,New Orleans
+2024-11-01,Portland
+2024-11-01,Toronto
+2024-11-02,Charlotte
+2024-11-02,Denver
+2024-11-02,Houston
+2024-11-02,Inglewood
+2024-11-02,Milwaukee
+2024-11-02,Philadelphia
+2024-11-02,Phoenix
+2024-11-02,San Antonio
+2024-11-02,Toronto
+2024-11-02,Mexico City
+2024-11-03,Brooklyn
+2024-11-03,New Orleans
+2024-11-03,Dallas
+2024-11-04,Atlanta
+2024-11-04,Brooklyn
+2024-11-04,Chicago
+2024-11-04,Cleveland
+2024-11-04,Dallas
+2024-11-04,Denver
+2024-11-04,Detroit
+2024-11-04,Houston
+2024-11-04,Inglewood
+2024-11-04,Miami
+2024-11-04,Minneapolis
+2024-11-04,New Orleans
+2024-11-04,Oklahoma City
+2024-11-04,Phoenix
+2024-11-04,Washington
+2024-11-06,Atlanta
+2024-11-06,Boston
+2024-11-06,Charlotte
+2024-11-06,Dallas
+2024-11-06,Denver
+2024-11-06,Houston
+2024-11-06,Indianapolis
+2024-11-06,Inglewood
+2024-11-06,Memphis
+2024-11-06,New Orleans
+2024-11-06,Phoenix
+2024-11-06,Sacramento
+2024-11-07,Chicago
+2024-11-07,Milwaukee
+2024-11-07,San Antonio
+2024-11-08,Boston
+2024-11-08,Charlotte
+2024-11-08,Cleveland
+2024-11-08,Dallas
+2024-11-08,Denver
+2024-11-08,Detroit
+2024-11-08,Los Angeles
+2024-11-08,Memphis
+2024-11-08,Minneapolis
+2024-11-08,New York
+2024-11-08,Oklahoma City
+2024-11-08,Orlando
+2024-11-08,Sacramento
+2024-11-09,Atlanta
+2024-11-09,Cleveland
+2024-11-09,Inglewood
+2024-11-09,San Antonio
+2024-11-10,Denver
+2024-11-10,Detroit
+2024-11-10,Indianapolis
+2024-11-10,Los Angeles
+2024-11-10,Milwaukee
+2024-11-10,Minneapolis
+2024-11-10,Oklahoma City
+2024-11-10,Orlando
+2024-11-10,Philadelphia
+2024-11-10,Phoenix
+2024-11-10,Portland
+2024-11-11,Chicago
+2024-11-11,Houston
+2024-11-11,New Orleans
+2024-11-11,Oklahoma City
+2024-11-11,San Antonio
+2024-11-12,Boston
+2024-11-12,Detroit
+2024-11-12,San Francisco
+2024-11-12,Milwaukee
+2024-11-12,Orlando
+2024-11-12,Philadelphia
+2024-11-12,Portland
+2024-11-12,Salt Lake City
+2024-11-13,Brooklyn
+2024-11-13,Houston
+2024-11-13,Los Angeles
+2024-11-13,Milwaukee
+2024-11-13,New York
+2024-11-13,Oklahoma City
+2024-11-13,Orlando
+2024-11-13,Philadelphia
+2024-11-13,Portland
+2024-11-13,Sacramento
+2024-11-13,San Antonio
+2024-11-14,Salt Lake City
+2024-11-15,Atlanta
+2024-11-15,Cleveland
+2024-11-15,San Francisco
+2024-11-15,Houston
+2024-11-15,Indianapolis
+2024-11-15,New Orleans
+2024-11-15,New York
+2024-11-15,Oklahoma City
+2024-11-15,Orlando
+2024-11-15,Sacramento
+2024-11-15,San Antonio
+2024-11-15,Toronto
+2024-11-16,Boston
+2024-11-16,Charlotte
+2024-11-16,Dallas
+2024-11-16,New Orleans
+2024-11-16,Sacramento
+2024-11-17,Chicago
+2024-11-17,Cleveland
+2024-11-17,Indianapolis
+2024-11-17,Inglewood
+2024-11-17,Memphis
+2024-11-17,Minneapolis
+2024-11-17,New York
+2024-11-17,Oklahoma City
+2024-11-17,Portland
+2024-11-17,Washington
+2024-11-18,Detroit
+2024-11-18,Inglewood
+2024-11-18,Miami
+2024-11-18,Milwaukee
+2024-11-18,New York
+2024-11-18,Phoenix
+2024-11-18,Sacramento
+2024-11-18,Toronto
+2024-11-19,Boston
+2024-11-19,Brooklyn
+2024-11-19,Dallas
+2024-11-19,Los Angeles
+2024-11-19,Memphis
+2024-11-19,San Antonio
+2024-11-20,Cleveland
+2024-11-20,San Francisco
+2024-11-20,Houston
+2024-11-20,Inglewood
+2024-11-20,Memphis
+2024-11-20,Milwaukee
+2024-11-20,Oklahoma City
+2024-11-20,Phoenix
+2024-11-21,Charlotte
+2024-11-21,Los Angeles
+2024-11-21,San Antonio
+2024-11-21,Toronto
+2024-11-22,Chicago
+2024-11-22,Denver
+2024-11-22,Houston
+2024-11-22,Inglewood
+2024-11-22,Milwaukee
+2024-11-22,New Orleans
+2024-11-22,Philadelphia
+2024-11-22,Washington
+2024-11-23,Chicago
+2024-11-23,Houston
+2024-11-23,Los Angeles
+2024-11-23,Milwaukee
+2024-11-23,Orlando
+2024-11-23,San Antonio
+2024-11-23,Salt Lake City
+2024-11-24,Boston
+2024-11-24,Cleveland
+2024-11-24,Indianapolis
+2024-11-24,Miami
+2024-11-24,Philadelphia
+2024-11-24,Sacramento
+2024-11-25,Atlanta
+2024-11-25,Boston
+2024-11-25,Charlotte
+2024-11-25,Denver
+2024-11-25,Detroit
+2024-11-25,San Francisco
+2024-11-25,Indianapolis
+2024-11-25,Memphis
+2024-11-25,Sacramento
+2024-11-26,Miami
+2024-11-26,Minneapolis
+2024-11-26,Phoenix
+2024-11-26,Salt Lake City
+2024-11-26,Washington
+2024-11-27,Charlotte
+2024-11-27,Cleveland
+2024-11-27,Dallas
+2024-11-27,San Francisco
+2024-11-27,Indianapolis
+2024-11-27,Memphis
+2024-11-27,Minneapolis
+2024-11-27,New Orleans
+2024-11-27,Orlando
+2024-11-27,Philadelphia
+2024-11-27,Phoenix
+2024-11-27,San Antonio
+2024-11-27,Salt Lake City
+2024-11-27,Washington
+2024-11-29,Atlanta
+2024-11-29,Brooklyn
+2024-11-29,Chicago
+2024-11-29,Charlotte
+2024-11-29,Indianapolis
+2024-11-29,Los Angeles
+2024-11-29,Memphis
+2024-11-29,Miami
+2024-11-29,Minneapolis
+2024-11-29,Portland
+2024-11-30,Charlotte
+2024-11-30,Detroit
+2024-11-30,Milwaukee
+2024-11-30,Phoenix
+2024-11-30,Salt Lake City
+2024-12-01,Brooklyn
+2024-12-01,Memphis
+2024-12-01,Cleveland
+2024-12-01,New York
+2024-12-01,Toronto
+2024-12-01,Houston
+2024-12-01,Salt Lake City
+2024-12-01,Portland
+2024-12-01,Sacramento
+2024-12-01,Inglewood
+2024-12-02,Atlanta
+2024-12-02,Boston
+2024-12-02,Chicago
+2024-12-02,Minneapolis
+2024-12-03,Charlotte
+2024-12-03,Cleveland
+2024-12-03,Detroit
+2024-12-03,New York
+2024-12-03,Toronto
+2024-12-03,Oklahoma City
+2024-12-03,Dallas
+2024-12-03,Phoenix
+2024-12-03,Denver
+2024-12-03,Sacramento
+2024-12-03,Inglewood
+2024-12-04,Boston
+2024-12-04,Brooklyn
+2024-12-04,Miami
+2024-12-04,Philadelphia
+2024-12-04,Milwaukee
+2024-12-04,Inglewood
+2024-12-05,Cleveland
+2024-12-05,Washington
+2024-12-05,New York
+2024-12-05,Toronto
+2024-12-05,Memphis
+2024-12-05,New Orleans
+2024-12-05,San Antonio
+2024-12-05,San Francisco
+2024-12-06,Philadelphia
+2024-12-06,Atlanta
+2024-12-06,Boston
+2024-12-06,Chicago
+2024-12-06,San Antonio
+2024-12-06,San Francisco
+2024-12-06,Portland
+2024-12-07,Charlotte
+2024-12-07,New Orleans
+2024-12-07,Washington
+2024-12-07,New York
+2024-12-07,Toronto
+2024-12-07,Boston
+2024-12-07,Miami
+2024-12-08,Chicago
+2024-12-08,Brooklyn
+2024-12-08,Indianapolis
+2024-12-08,Atlanta
+2024-12-08,Miami
+2024-12-08,Orlando
+2024-12-08,San Antonio
+2024-12-08,Washington
+2024-12-08,San Francisco
+2024-12-08,Inglewood
+2024-12-08,Sacramento
+2024-12-08,Los Angeles
+2024-12-09,Toronto
+2024-12-10,Milwaukee
+2024-12-10,Oklahoma City
+2024-12-11,New York
+2024-12-11,Houston
+2024-12-12,Boston
+2024-12-12,Miami
+2024-12-12,New Orleans
+2024-12-13,Cleveland
+2024-12-13,Philadelphia
+2024-12-13,Chicago
+2024-12-13,Memphis
+2024-12-13,Minneapolis
+2024-12-13,Denver
+2024-12-13,Salt Lake City
+2024-12-13,Portland
+2024-12-14,Las Vegas
+2024-12-14,Las Vegas
+2024-12-15,Indianapolis
+2024-12-15,Orlando
+2024-12-15,Washington
+2024-12-15,San Antonio
+2024-12-15,Phoenix
+2024-12-15,San Francisco
+2024-12-15,Los Angeles
+2024-12-16,Charlotte
+2024-12-16,Detroit
+2024-12-16,Brooklyn
+2024-12-16,Toronto
+2024-12-16,Sacramento
+2024-12-16,Inglewood
+2024-12-17,Las Vegas
+2024-12-19,Detroit
+2024-12-19,Orlando
+2024-12-19,Washington
+2024-12-19,Boston
+2024-12-19,Toronto
+2024-12-19,Houston
+2024-12-19,Memphis
+2024-12-19,San Antonio
+2024-12-19,Dallas
+2024-12-19,Phoenix
+2024-12-19,Minneapolis
+2024-12-19,Portland
+2024-12-19,Sacramento
+2024-12-20,Philadelphia
+2024-12-20,Cleveland
+2024-12-20,Miami
+2024-12-21,Sacramento
+2024-12-21,Orlando
+2024-12-21,Atlanta
+2024-12-21,Brooklyn
+2024-12-21,Chicago
+2024-12-21,Cleveland
+2024-12-21,Milwaukee
+2024-12-21,Minneapolis
+2024-12-21,New Orleans
+2024-12-21,Dallas
+2024-12-21,San Antonio
+2024-12-21,Phoenix
+2024-12-22,Sacramento
+2024-12-22,Toronto
+2024-12-22,New Orleans
+2024-12-23,Charlotte
+2024-12-23,Cleveland
+2024-12-23,Orlando
+2024-12-23,Philadelphia
+2024-12-23,Atlanta
+2024-12-23,Miami
+2024-12-23,New York
+2024-12-23,Chicago
+2024-12-23,Memphis
+2024-12-23,Oklahoma City
+2024-12-23,Dallas
+2024-12-23,Denver
+2024-12-23,San Francisco
+2024-12-23,Los Angeles
+2024-12-25,New York
+2024-12-25,Dallas
+2024-12-25,Boston
+2024-12-25,San Francisco
+2024-12-25,Phoenix
+2024-12-26,Indianapolis
+2024-12-26,Orlando
+2024-12-26,Washington
+2024-12-26,Atlanta
+2024-12-26,Memphis
+2024-12-26,Milwaukee
+2024-12-26,New Orleans
+2024-12-26,Portland
+2024-12-26,Sacramento
+2024-12-27,Orlando
+2024-12-27,Boston
+2024-12-27,Brooklyn
+2024-12-27,Houston
+2024-12-27,New Orleans
+2024-12-27,Denver
+2024-12-27,Phoenix
+2024-12-27,Inglewood
+2024-12-28,Atlanta
+2024-12-28,Charlotte
+2024-12-28,Washington
+2024-12-28,Chicago
+2024-12-28,San Francisco
+2024-12-28,Denver
+2024-12-28,Salt Lake City
+2024-12-28,Portland
+2024-12-28,Los Angeles
+2024-12-29,Orlando
+2024-12-29,Boston
+2024-12-29,Toronto
+2024-12-29,Houston
+2024-12-29,Oklahoma City
+2024-12-29,Minneapolis
+2024-12-30,Charlotte
+2024-12-30,Washington
+2024-12-30,New Orleans
+2024-12-30,Salt Lake City
+2024-12-30,San Francisco
+2024-12-30,Portland
+2024-12-30,Sacramento
+2024-12-31,Boston
+2024-12-31,Indianapolis
+2024-12-31,San Antonio
+2024-12-31,Oklahoma City
+2024-12-31,Los Angeles
+2024-12-31,Phoenix
