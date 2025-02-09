@@ -1,0 +1,64 @@
+Region,Country,Min_Wage
+Washington,USA,16.28
+California,USA,16.0
+Connecticut,USA,15.69
+Massachusetts,USA,15.5
+New Jersey,USA,15.13
+New York,USA,15.0
+Maryland,USA,15.0
+Oregon,USA,14.75
+Colorado,USA,14.42
+Arizona,USA,14.35
+Maine,USA,14.15
+Hawaii,USA,14.0
+Illinois,USA,14.0
+Rhode Island,USA,14.0
+Vermont,USA,13.67
+Delaware,USA,13.25
+Missouri,USA,12.3
+New Mexico,USA,12.0
+Virginia,USA,12.0
+Florida,USA,12.0
+Nevada,USA,12.0
+Nebraska,USA,12.0
+Alaska,USA,11.73
+Yukon,Canada,11.72
+British Columbia,Canada,11.71
+Ontario,Canada,11.57
+Northwest Territories,Canada,11.22
+South Dakota,USA,11.2
+Nunavut,Canada,11.18
+Arkansas,USA,11.0
+Minnesota,USA,10.85
+Manitoba,Canada,10.69
+Quebec,Canada,10.66
+Montana,USA,10.5
+Newfoundland and Labrador,Canada,10.48
+Nova Scotia,Canada,10.48
+Prince Edward Island,Canada,10.48
+Alberta,Canada,10.48
+Ohio,USA,10.45
+Michigan,USA,10.33
+New Brunswick,Canada,10.31
+Saskatchewan,Canada,9.79
+West Virginia,USA,8.75
+Wyoming,USA,7.25
+Wisconsin,USA,7.25
+Mississippi,USA,7.25
+Utah,USA,7.25
+Georgia,USA,7.25
+Idaho,USA,7.25
+Texas,USA,7.25
+Tennessee,USA,7.25
+South Carolina,USA,7.25
+Indiana,USA,7.25
+Pennsylvania,USA,7.25
+Iowa,USA,7.25
+Oklahoma,USA,7.25
+North Dakota,USA,7.25
+North Carolina,USA,7.25
+Kansas,USA,7.25
+Kentucky,USA,7.25
+Louisiana,USA,7.25
+New Hampshire,USA,7.25
+Alabama,USA,7.25
