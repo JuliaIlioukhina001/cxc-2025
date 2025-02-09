@@ -257,7 +257,7 @@ HOTEL,Morris,IL,US,00:00:00
 FAMILY_DINING,Seattle,WA,US,00:00:00
 ,Marion,OH,US,04:00:00
 CAFE,Brampton,ON,CA,00:00:00
-FINE_DINING,Prince George,BC,US,00:00:00  <<< NOTE: This entry was "country=US," but "Prince George" is typically BC, CA. Possibly an error in original data. 
+FINE_DINING,Prince George,BC,CA,00:00:00
 ,Blue River,BC,CA,00:00:00
 FAMILY_DINING,Eads,CO,US,00:00:00
 BAR,Redondo Beach,CA,US,10:00:00
